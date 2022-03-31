@@ -1,4 +1,1 @@
-Sanjeevi 
-
-node 
-react + typescript
+jhansi is from webapps
