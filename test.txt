@@ -1,1 +1,4 @@
 Sanjeevi 
+
+node 
+react + typescript
